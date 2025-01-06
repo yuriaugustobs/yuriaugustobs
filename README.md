@@ -2,8 +2,10 @@
 # Hi! My name is Yuri! 🫡
 
 ### About Me:
-💻 Passionate about technology, I am transitioning from graphic design to software development.  
-🎯 Goal: to master new technical skills and contribute to open source projects.
+💻 Passionate about technology, I am transitioning from graphic design to software development, combining creativity with logical problem-solving;
+🎯 My goal is to master technical skills, expand my knowledge in programming, and actively contribute to open-source projects;
+🌟 I am driven by curiosity and a commitment to continuous learning;
+🚀 Eager to collaborate on innovative projects that make a difference and to grow within the tech community as a proactive and dedicated professional;
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriaugustob/)
